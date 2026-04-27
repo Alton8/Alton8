@@ -1,7 +1,7 @@
 [![Repos](https://img.shields.io/badge/Public%20Repos-11-blue?style=flat-square)](https://github.com/Alton8?tab=repositories)
 
 ## About
-👋 Hello, I'm Alton. I'm a passionate developer focused on building practical applications and exploring various tech stacks. I work on course planning tools, game development, and finance applications with a focus on Java, JavaScript, and Python.
+👋 Hello, I'm Alton. I'm an undergraduate Computer Science student at California State Polytechnic University, Pomona. I am interested in software development, particularly building applications and systems-level programming.
 
 - 📍 Location: Los Angeles, CA
 - 📅 Hacking Since: 2023
