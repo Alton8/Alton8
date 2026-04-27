@@ -12,7 +12,7 @@
 - 🤖 [Hangman](https://github.com/Alton8/hangman) — A classic Hangman game implemented with Java Swing. (Java)
 
 ## Tech & Interests
-- 🧰 Languages: ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- 🧰 Languages: Java, JavaScript, Python
 - 🔭 Focus: Web Development, AI/ML Applications, Desktop Applications
 - ❤️ Interests: Course Planning, Finance Tools, Game Development
 
