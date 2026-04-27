@@ -1,6 +1,4 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+[![Repos](https://img.shields.io/badge/Public%20Repos-11-blue?style=flat-square)](https://github.com/Alton8?tab=repositories)
 
 ## About
 👋 Hello, I'm Alton. I'm a passionate developer focused on building practical applications and exploring various tech stacks. I work on course planning tools, game development, and finance applications with a focus on Java, JavaScript, and Python.
@@ -14,7 +12,7 @@
 - 🤖 [Hangman](https://github.com/Alton8/hangman) — A classic Hangman game implemented with Java Swing. (Java)
 
 ## Tech & Interests
-- 🧰 Languages: Java, JavaScript, Python, TeX
+- 🧰 Languages: ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 - 🔭 Focus: Web Development, AI/ML Applications, Desktop Applications
 - ❤️ Interests: Course Planning, Finance Tools, Game Development
 
