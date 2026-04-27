@@ -1,24 +1,27 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+[![GitHub Followers](https://img.shields.io/github/followers/Alton8?label=Followers&style=flat-square)](https://github.com/Alton8?tab=followers)
+[![GitHub Repos](https://img.shields.io/badge/Public%20Repos-11-blue?style=flat-square)](https://github.com/Alton8?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=Alton8&color=blue&style=flat-square)](https://github.com/Alton8)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TeX](https://img.shields.io/badge/TeX-3D6117?style=flat-square&logo=latex&logoColor=white)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+👋 Hello, I'm Alton. I'm a passionate developer focused on building practical applications and exploring various tech stacks. I work on course planning tools, game development, and finance applications with a focus on Java, JavaScript, and Python.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+- 📍 Location: Los Angeles, CA
+- 📅 Hacking Since: 2023
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- 🎲 [BroncoRMP](https://github.com/Alton8/BroncoRMP) — An AI course-planning app that builds personalized class schedules using professor ratings, workload preferences, time constraints, and academic goals. (JavaScript)
+- 🛠️ [Expense-Splitting-Application](https://github.com/Alton8/Expense-Splitting-Application) — A Java application for splitting and managing shared expenses. (Java)
+- 🤖 [Hangman](https://github.com/Alton8/hangman) — A classic Hangman game implemented with Java Swing. (Java)
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+- 🧰 Languages: Java, JavaScript, Python, TeX
+- 🔭 Focus: Web Development, AI/ML Applications, Desktop Applications
+- ❤️ Interests: Course Planning, Finance Tools, Game Development
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
