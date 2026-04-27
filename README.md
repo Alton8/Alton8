@@ -7,7 +7,7 @@
 - 📅 Hacking Since: 2023
 
 ## Featured Projects
-- 🎲 [BroncoRMP](https://github.com/Alton8/BroncoRMP) — An AI course-planning app that builds personalized class schedules using professor ratings, workload preferences, time constraints, and academic goals. (JavaScript)
+- 🎲 [BroncoRMP](https://github.com/Alton8/BroncoRMP) — A Chrome extension that brings RateMyProfessors data and AI summaries straight into CPP’s Schedule Builder to make picking classes easier.. (JavaScript)
 - 🛠️ [Expense-Splitting-Application](https://github.com/Alton8/Expense-Splitting-Application) — A Java application for splitting and managing shared expenses. (Java)
 - 🤖 [Hangman](https://github.com/Alton8/hangman) — A classic Hangman game implemented with Java Swing. (Java)
 
