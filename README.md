@@ -1,10 +1,6 @@
-[![GitHub Followers](https://img.shields.io/github/followers/Alton8?label=Followers&style=flat-square)](https://github.com/Alton8?tab=followers)
-[![GitHub Repos](https://img.shields.io/badge/Public%20Repos-11-blue?style=flat-square)](https://github.com/Alton8?tab=repositories)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TeX](https://img.shields.io/badge/TeX-3D6117?style=flat-square&logo=latex&logoColor=white)
+<!-- Template:
+[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
+[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
 
 ## About
 👋 Hello, I'm Alton. I'm a passionate developer focused on building practical applications and exploring various tech stacks. I work on course planning tools, game development, and finance applications with a focus on Java, JavaScript, and Python.
