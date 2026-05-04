@@ -1,5 +1,3 @@
-[![Repos](https://img.shields.io/badge/Public%20Repos-11-blue?style=flat-square)](https://github.com/Alton8?tab=repositories)
-
 ## About
 👋 Hello, I'm Alton. I'm an undergraduate Computer Science student at California State Polytechnic University, Pomona. I am interested in software development, particularly building applications and systems-level programming.
 
