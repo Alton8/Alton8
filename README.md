@@ -7,7 +7,7 @@
 ## Featured Projects
 - 🐎 [BroncoRMP](https://github.com/Alton8/BroncoRMP) — A Chrome extension that brings RateMyProfessor data and AI summaries straight into CPP’s Schedule Builder to make picking classes easier. (JavaScript)
 - 🛠️ [Expense-Splitting-Application](https://github.com/Alton8/Expense-Splitting-Application) — A Java application for splitting and managing shared expenses. (Java)
-- 🤖 [meet2gether](https://github.com/Alton8/meet2gether) — A scheduler webapp inspired by when2meet [@johnnelsan](https://github.com/johnnelsan)
+- 🤖 [meet2gether](https://github.com/Alton8/meet2gether) — A scheduler webapp inspired by when2meet made with [@johnnelsan](https://github.com/johnnelsan)
 
 
 ## Tech & Interests
